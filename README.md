@@ -1,7 +1,7 @@
 ### Hi there, I am Adrian Nasaruk👋
 
 - 🔭 I’m currently working on getting more comfortable with Pyhton and JavaScript.
-- 🌱 I’m currently learning that coding is constantly learning.
+- 🌱 I’m currently learning that coding means constant learning.
 - 💬 Ask me about anything if you have questions.
 - 📫 How to reach me: adriannasaruk@gmail.com // https://www.linkedin.com/in/adriannasaruk/
 - ⚡ Fun fact: I am from Germany and speak English, German, Russian and Ukrainian.
