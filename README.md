@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there, I am Adrian Nasaruk👋
+
+- 🔭 I’m currently working on getting more comfortable with Pyhton and JavaScript.
+- 🌱 I’m currently learning that coding is constantly learning.
+- 💬 Ask me about anything if you have questions.
+- 📫 How to reach me: adriannasaruk@gmail.com // https://www.linkedin.com/in/adriannasaruk/
+- ⚡ Fun fact: I am from Germany and speak English, German, Russian and Ukrainian.
 
 <!--
 **adriannasaruk/adriannasaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
